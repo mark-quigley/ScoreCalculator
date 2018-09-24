@@ -1,11 +1,11 @@
 <resources>
     <string name="app_name">Score Calculator</string>
-    <string name="button_3fix">3 Fix</string>
-    <string name="button_2fix">2 Fix</string>
+    <string name="button_3fix">3 Fixes</string>
+    <string name="button_2fix">2 Fixes</string>
     <string name="button_1fix">1 Fix</string>
-    <string name="button_0fix">0 Fix</string>
+    <string name="button_0fix">0 Fixes</string>
     <string name="button_reset">Reset</string>
-    <string name="message_format">Points = %d</string>
+    <string name="message_format">%d Points</string>
     <string name="button_update">Update</string>
     <string name="button_WBfailure">WB Failure</string>
     <string name="button_WBsuccess">WB Success</string>
